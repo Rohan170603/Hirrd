@@ -1,0 +1,108 @@
+[33mcommit 22c683edf7ee9614c30f09c189bdc48d288fff24[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Rohan170603 <rohanshinde170603@gmail.com>
+Date:   Mon Oct 14 21:42:35 2024 +0530
+
+    Initial commit
+
+[33mcommit 56be2e821cc0c19d4fd1083fb7673df7fefefb11[m[33m ([m[1;32mmaster[m[33m)[m
+Merge: 45c8e22 9a0124e
+Author: Piyush Agarwal <piyushagarwalvo@gmail.com>
+Date:   Sun Aug 25 10:05:18 2024 +0530
+
+    Merge branch 'master' of https://github.com/piyush-eon/job-portal
+
+[33mcommit 45c8e22fe9b652641b2afa23b647d24d3ffb3ecf[m
+Author: Piyush Agarwal <piyushagarwalvo@gmail.com>
+Date:   Sun Aug 25 10:05:02 2024 +0530
+
+    add vercel json file
+
+[33mcommit 9a0124eef98f3cf4fa564412da2cd6f4fdbd191b[m
+Author: Piyush Agarwal (Roadside Coder) <51760520+piyush-eon@users.noreply.github.com>
+Date:   Sun Aug 18 15:41:28 2024 +0530
+
+    Update README.md
+
+[33mcommit cb38839c1883994cd25b8701c9accd08b042bb4e[m
+Author: Piyush Agarwal <piyushagarwalvo@gmail.com>
+Date:   Mon Aug 12 18:07:47 2024 +0530
+
+    Fix company logo upload
+
+[33mcommit 5b50049ac75e4a2991f09f6af2208d3dcaba86e7[m
+Author: Piyush Agarwal <piyushagarwalvo@gmail.com>
+Date:   Sat Aug 10 21:39:24 2024 +0530
+
+    Update Readme
+
+[33mcommit 79d56f822ec5915a01fe10cf3de2eaf7780154f2[m
+Author: Piyush Agarwal <piyushagarwalvo@gmail.com>
+Date:   Sat Aug 10 21:27:13 2024 +0530
+
+    UI Fixes
+
+[33mcommit 8df30c2c65fe21828b569819dbba09450f357df3[m
+Author: Piyush Agarwal <piyushagarwalvo@gmail.com>
+Date:   Sat Aug 10 21:12:36 2024 +0530
+
+    remove unused route
+
+[33mcommit d6f0edff752e20c658d81b2e29e232d62e6ab14d[m
+Author: Piyush Agarwal <piyushagarwalvo@gmail.com>
+Date:   Sat Aug 10 14:41:39 2024 +0530
+
+    Create and Delete Job Logic
+
+[33mcommit dffe0a17d33ec8f3cad3e58343e1e0238a510a0d[m
+Author: Piyush Agarwal <piyushagarwalvo@gmail.com>
+Date:   Sat Aug 10 09:40:11 2024 +0530
+
+    Applications Page
+
+[33mcommit a96338025151f8219843559919dc520af5e28540[m
+Author: Piyush Agarwal <piyushagarwalvo@gmail.com>
+Date:   Sat Aug 10 09:08:07 2024 +0530
+
+    Application Status Change Logic
+
+[33mcommit 3cbbfac5cc8a3f05b097a648e0daba0641e32168[m
+Author: Piyush Agarwal <piyushagarwalvo@gmail.com>
+Date:   Sat Aug 10 00:51:02 2024 +0530
+
+    Saved Jobs Page + Job card bug fix
+
+[33mcommit ac55a19f27de1978aabde3d15065cc5cc9f17eb5[m
+Author: Piyush Agarwal <piyushagarwalvo@gmail.com>
+Date:   Fri Aug 9 18:21:02 2024 +0530
+
+    Apply Job Form, Save Job and hiring status change logic
+
+[33mcommit 589b4de0c919f8c7d31e9237d3f7f88e16e65bb4[m
+Author: Piyush Agarwal <piyushagarwalvo@gmail.com>
+Date:   Thu Aug 8 14:41:49 2024 +0530
+
+    Job Page and Listing Page
+
+[33mcommit ac79b5523a5fed811d678cdfd4b91b1865309eb5[m
+Author: Piyush Agarwal <piyushagarwalvo@gmail.com>
+Date:   Tue Aug 6 16:38:04 2024 +0530
+
+    User Onboarding and Protected Redirection
+
+[33mcommit f779ce30b296204ccf5e11cf3faa1c558b78a862[m
+Author: Piyush Agarwal (Roadside Coder) <51760520+piyush-eon@users.noreply.github.com>
+Date:   Tue Aug 6 08:26:44 2024 +0530
+
+    Update README.md
+
+[33mcommit 16d5f91194b95f3dacd14686e29982f5ab286548[m
+Author: Piyush Agarwal <piyushagarwalvo@gmail.com>
+Date:   Tue Aug 6 08:24:06 2024 +0530
+
+    Landing Page and User Authentication
+
+[33mcommit 712d7586728ac0c5bdf4dc9c27dde280a586acb7[m
+Author: Piyush Agarwal <piyushagarwalvo@gmail.com>
+Date:   Mon Aug 5 11:03:27 2024 +0530
+
+    Setup Tech stack
